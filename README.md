@@ -22,12 +22,10 @@ To demonstrate, with worked examples rather than claims:
 
 A small curated set showing what the framework catches. The full archive is in [`research/`](./research/).
 
-- **Theoriq Gold Vault** — CEO succession (Bodkin → Chen), ~91% TVL collapse, Gold Vault contract address undisclosed, December 2026 cliff.
-- **YO Protocol** — $3.71M loss from a centralized off-chain harvester (17.8M slippage vs. expected ~50 bps). Cited in the methodology as the canonical example of operational risk distinct from smart-contract bugs.
-- **Canton Network** — Institutional permissioned chain. The investigation surfaced the parent company's prior ASX CHESS failure (~$250M, seven years, scrapped 2022) as critical context that official communications omitted.
-- **Lighter DEX** — Pre-token-launch institutional pre-screen, with a follow-up two months later showing how the picture changed (January 2027 cliff = $345M overhang).
-
-_(Update the bullets above with relative links once the reports are added to `research/`.)_
+- [**Theoriq Gold Vault**](research/Theoriq%20Gold%20Vault%20-%202026-05-06.md) — CEO succession (Bodkin → Chen), ~91% TVL collapse, Gold Vault contract address undisclosed, December 2026 cliff.
+- [**YO Protocol**](research/YO%20Protocol%20-%202026-03-02.md) — $3.71M loss from a centralized off-chain harvester (17.8M slippage vs. expected ~50 bps). Cited in the methodology as the canonical example of operational risk distinct from smart-contract bugs.
+- [**Canton Network**](research/Canton%20Network%20-%202026-03-06.md) — Institutional permissioned chain. The investigation surfaced the parent company's prior ASX CHESS failure (~$250M, seven years, scrapped 2022) as critical context that official communications omitted.
+- **Lighter DEX** — [Pre-token-launch institutional pre-screen](research/Lighter%20DEX%20-%202026-03-02.md), with a [follow-up two months later](research/Lighter%20DEX%20-%202026-05-14.md) showing how the picture changed (January 2027 cliff = $345M overhang).
 
 ## How to read a report
 
