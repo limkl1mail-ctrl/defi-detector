@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Local working directories (never publish)
+nimbalyst-local/
+warren/
+tasks/
+plans/
+
+# Drafts and unreviewed reports
+research/_drafts/
+*.draft.md
+*.local.md
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Build artifacts (if you add MkDocs later)
+site/
+.cache/
+__pycache__/
+*.pyc

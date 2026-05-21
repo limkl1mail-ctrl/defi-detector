@@ -1,0 +1,54 @@
+# Optional: stand up a searchable static site at <username>.github.io/<repo>
+#
+# Install:  pip install mkdocs-material
+# Preview:  mkdocs serve
+# Build:    mkdocs build
+# Deploy:   mkdocs gh-deploy   (pushes to gh-pages branch; enable Pages in repo settings)
+
+site_name: DeFi Detector
+site_description: Adversarial due-diligence research on DeFi protocols, with an AI-assisted methodology.
+site_url: https://example.github.io/defi-detector  # update before deploying
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: README.md
+  - Methodology: METHODOLOGY.md
+  - Research:
+      - Index: research/README.md
+      # Add individual reports here as you publish them, e.g.:
+      # - Theoriq Gold Vault: research/Theoriq Gold Vault - 2026-05-06.md
+  - Disclaimer: DISCLAIMER.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+
+plugins:
+  - search
