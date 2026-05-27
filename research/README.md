@@ -2,7 +2,7 @@
 
 Investigations are filed as `[Project Name] - [YYYY-MM-DD].md`. The date is the report's publication date, not the project's launch date.
 
-This archive currently contains **18 published reports** through **2026-05-19**. Each report follows the structure defined in [`../METHODOLOGY.md`](../METHODOLOGY.md): Executive Summary -> Team -> Third-Party Consensus -> On-Chain Findings -> Red Flags Register -> Unresolved Questions -> Monitor -> Data Sources.
+This archive currently contains **17 published reports** through **2026-05-19**. Each report follows the structure defined in [`../METHODOLOGY.md`](../METHODOLOGY.md): Executive Summary -> Team -> Third-Party Consensus -> On-Chain Findings -> Red Flags Register -> Unresolved Questions -> Monitor -> Data Sources.
 
 ---
 
@@ -38,7 +38,6 @@ Reports are listed in reverse chronological order.
 | 2026-05-06 | [Gnosis (GNO)](./Gnosis%20%28GNO%29%20-%202026-05-06.md) | DAO treasury / L1 infrastructure | Treasury discount with structural reasons; weak value accrual and insider-influenced governance | Medium |
 | 2026-05-06 | [Overnight Finance (OVN)](./Overnight%20Finance%20%28OVN%29%20-%202026-05-06.md) | Yield aggregator / rebasing stablecoin | Governance capture and successor-project migration risk | Medium |
 | 2026-05-06 | [Theoriq Gold Vault](./Theoriq%20Gold%20Vault%20-%202026-05-06.md) | AI-managed gold vault | Real product but below minimum transparency threshold | Low-Medium |
-| 2026-05-05 | [MegaETH (MEGA)](./MegaETH%20%28MEGA%29%20-%202026-05-05.md) | Ethereum L2 | Strong credentials; centralized sequencer and operational maturity concerns | Medium-High |
 | 2026-04-30 | [Odyssey Finance](./Odyssey%20Finance%20-%202026-04-30.md) | Yield aggregator | Legitimate Bloq subsidiary; unresolved contract, governance, and circular-ecosystem risks | Medium |
 | 2026-03-27 | [Fluid (Instadapp)](./Fluid%20%28Instadapp%29%20-%202026-03-27.md) | Retail DeFi / lending | Battle-tested protocol; centralized and opaque bad-debt resolution | High |
 | 2026-03-18 | [Rollbit (RLB)](./Rollbit%20%28RLB%29%20-%202026-03-18.md) | Centralized crypto casino / GambleFi | Real revenue; high counterparty, regulatory, and governance risk | Medium |
