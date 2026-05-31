@@ -2,7 +2,7 @@
 
 Investigations are filed as `[Project Name] - [YYYY-MM-DD].md`. The date is the report's publication date, not the project's launch date.
 
-This archive currently contains **17 published reports** through **2026-05-19**. Each report follows the structure defined in [`../METHODOLOGY.md`](../METHODOLOGY.md): Executive Summary -> Team -> Third-Party Consensus -> On-Chain Findings -> Red Flags Register -> Unresolved Questions -> Monitor -> Data Sources.
+This archive currently contains **17 published reports** through **2026-05-19**, with the Overnight Finance report updated on **2026-05-31** for litigation and recovery developments. Each report follows the structure defined in [`../METHODOLOGY.md`](../METHODOLOGY.md): Executive Summary -> Team -> Third-Party Consensus -> On-Chain Findings -> Red Flags Register -> Unresolved Questions -> Monitor -> Data Sources.
 
 ---
 
@@ -17,6 +17,7 @@ The most useful entry points for a new reader. These were chosen because they sh
 | [Gyroscope Protocol](./Gyroscope%20Protocol%20-%202026-03-17.md) | Stablecoin | $807K cross-chain exploit, halted operations, and founder commitment concerns behind strong academic branding |
 | [Fluid (Instadapp)](./Fluid%20%28Instadapp%29%20-%202026-03-27.md) | Retail DeFi / lending | Battle-tested protocol with opaque centralized handling of ~$19.3M bad debt from the Resolv USR incident |
 | [Theoriq Gold Vault](./Theoriq%20Gold%20Vault%20-%202026-05-06.md) | Multi-asset vault | Undisclosed Gold Vault contract address, no Theoriq-specific audit, ~91% TVL collapse, and December 2026 cliff |
+| [Overnight Finance (OVN)](./Overnight%20Finance%20%28OVN%29%20-%202026-05-06.md) | Yield aggregator / rebasing stablecoin | Governance-capture thesis escalated into active asset-recovery litigation after Circle froze ~$12.6M in Zama cUSDC |
 | [OpenEden](./OpenEden%20%28EDEN%29%20-%202026-05-17.md) | Tokenized RWA / T-bills | Strong institutional product quality but weak EDEN token value accrual, upgradeability, and extreme holder concentration |
 | [Monad](./Monad%20%28MON%29%20-%202026-05-19.md) | Layer 1 blockchain | Strong engineering team and funding, offset by severe token unlock overhang and low utilization relative to capacity claims |
 
@@ -36,7 +37,7 @@ Reports are listed in reverse chronological order.
 | 2026-05-14 | [Bankr (BNKR)](./Bankr%20%28BNKR%29%20-%202026-05-14.md) | Base trading bot / meme token | Legitimate platform; unresolved buyback, Ventures, and LP verification gaps | Medium |
 | 2026-05-14 | [Lighter DEX update](./Lighter%20DEX%20-%202026-05-14.md) | Derivatives / perps | Real protocol with catalysts; collapsing fundamentals and January 2027 insider cliff | Medium |
 | 2026-05-06 | [Gnosis (GNO)](./Gnosis%20%28GNO%29%20-%202026-05-06.md) | DAO treasury / L1 infrastructure | Treasury discount with structural reasons; weak value accrual and insider-influenced governance | Medium |
-| 2026-05-06 | [Overnight Finance (OVN)](./Overnight%20Finance%20%28OVN%29%20-%202026-05-06.md) | Yield aggregator / rebasing stablecoin | Governance capture and successor-project migration risk | Medium |
+| 2026-05-06 | [Overnight Finance (OVN)](./Overnight%20Finance%20%28OVN%29%20-%202026-05-06.md) | Yield aggregator / rebasing stablecoin | Updated 2026-05-31: governance capture dispute now includes reported class action, Circle/Zama cUSDC freeze, and contingent RFV recovery thesis | Medium |
 | 2026-05-06 | [Theoriq Gold Vault](./Theoriq%20Gold%20Vault%20-%202026-05-06.md) | AI-managed gold vault | Real product but below minimum transparency threshold | Low-Medium |
 | 2026-04-30 | [Odyssey Finance](./Odyssey%20Finance%20-%202026-04-30.md) | Yield aggregator | Legitimate Bloq subsidiary; unresolved contract, governance, and circular-ecosystem risks | Medium |
 | 2026-03-27 | [Fluid (Instadapp)](./Fluid%20%28Instadapp%29%20-%202026-03-27.md) | Retail DeFi / lending | Battle-tested protocol; centralized and opaque bad-debt resolution | High |
