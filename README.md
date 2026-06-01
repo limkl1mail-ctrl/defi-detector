@@ -24,6 +24,7 @@ A small curated set showing what the framework catches. The full archive is in [
 
 - [**Theoriq Gold Vault**](research/Theoriq%20Gold%20Vault%20-%202026-05-06.md) — CEO succession (Bodkin → Chen), ~91% TVL collapse, Gold Vault contract address undisclosed, December 2026 cliff.
 - [**Overnight Finance (OVN)**](research/Overnight%20Finance%20%28OVN%29%20-%202026-05-06.md) — Updated 2026-05-31 for the reported N.D. California class action, Circle's ~$12.6M Zama cUSDC freeze, and the new litigation/RFV recovery thesis.
+- [**Fluid (Instadapp)**](research/Fluid%20%28Instadapp%29%20-%202026-03-27.md) — Updated 2026-06-01 for the Merkle distributor key compromise, post-Proposal 129 treasury composition, and transparency/operational-reserve concerns.
 - [**YO Protocol**](research/YO%20Protocol%20-%202026-03-02.md) — $3.71M loss from a centralized off-chain harvester (17.8M slippage vs. expected ~50 bps). Cited in the methodology as the canonical example of operational risk distinct from smart-contract bugs.
 - [**Canton Network**](research/Canton%20Network%20-%202026-03-06.md) — Institutional permissioned chain. The investigation surfaced the parent company's prior ASX CHESS failure (~$250M, seven years, scrapped 2022) as critical context that official communications omitted.
 - **Lighter DEX** — [Pre-token-launch institutional pre-screen](research/Lighter%20DEX%20-%202026-03-02.md), with a [follow-up two months later](research/Lighter%20DEX%20-%202026-05-14.md) showing how the picture changed (January 2027 cliff = $345M overhang).
